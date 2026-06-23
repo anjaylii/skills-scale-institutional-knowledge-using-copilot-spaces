@@ -1,6 +1,6 @@
 # OctoAcme — Project Management Processes
 
-This folder contains the canonical program and project process documents for OctoAcme. These docs capture how we initiate, plan, execute, release, and improve cross-functional work so teams can move quickly and consistently.
+This folder contains the canonical program and project process documents for OctoAcme. These docs capture how we initiate, plan, execute, release, and improve cross-functional work so teams can move q[...] 
 
 Core process documents
 - octoacme-project-initiation.md — How to validate and authorize new projects (one-pager, stakeholder alignment, decision gate).
@@ -20,7 +20,6 @@ How to use these docs
 - Keep the Risk Register updated and use the communication templates for stakeholder updates.
 
 Contributing updates
-Use the repository's "Add Content to Project Management Process Docs" issue template (.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) to propose additions or changes. Link any update PRs to the originating issue and request review from the project leads.
+Use the repository's "Add Content to Project Management Process Docs" issue template (.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) to propose additions or changes. Link any update PRs to the process doc issue (for example: #4).
 
-Contact / Ownership
-- Project Manager / Owner: see project-specific README or project one-pager for current PM and Product Lead.
+New: Use docs/templates/persona-addition-checklist.md when proposing new personas to ensure consistent descriptions and interactions are captured.
